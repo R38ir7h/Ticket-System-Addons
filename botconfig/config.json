@@ -1,0 +1,18 @@
+{
+  "env": {
+    "PREFIX": "!",
+    "mongo": "MONGO"
+  },
+  "ticket_category": {
+    "generalHelp": "969707349008842822",
+    "bugReport": "969707733836255262",
+    "orderBot": "969707786017574942",
+    "staffApply": "969707816233365625",
+    "partnerApply": "969707839562055690",
+    "sourceCode": "969707859778629663"
+  },
+  "ticket_extra": {
+    "transcript_channel": "969723545892573234",
+    "ticket_supporter_role": "954245147040817253"
+  }
+}
